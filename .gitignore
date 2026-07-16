@@ -1,0 +1,15 @@
+# Local Wi-Fi credentials
+firmware/esp32_cam/secrets.h
+
+# Arduino/ESP32 build products
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
